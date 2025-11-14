@@ -22,16 +22,16 @@ Repo: **https://github.com/ShinWolf-Subject/ttdl5**
 ## 📁 Struktur Proyek
 ```
 ttdl5/
-├── public/
-│   ├── index.html
-│   └── script.js
-├── downloads/
-│   └── (hasil download .mp4)
-├── .gitignore
-├── server-two.js
-├── vercel.json
-├── package.json
-└── README.md
+├─ public/
+│   ├─ index.html
+│   └─ script.js
+├─ downloads/
+│   └─ (hasil download .mp4)
+├─ .gitignore
+├─ server-two.js
+├─ vercel.json
+├─ package.json
+└─ README.md
 ```
 
 ---
@@ -50,7 +50,12 @@ ttdl5/
 git clone https://github.com/ShinWolf-Subject/ttdl5.git
 cd ttdl5
 npm install
-node server-two.js
+
+# Produksi
+npm start
+
+# Development
+npm run Dev
 ```
 
 Server default jalan di:
@@ -73,3 +78,5 @@ http://localhost:3000
 
 ## 📜 Lisensi
 MIT — bebas dipake, bebas dikembangin, yang penting **asikin aja 🗿**
+
+## Made by me aku my gua NineTwelve ☠️
