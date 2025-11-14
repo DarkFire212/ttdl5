@@ -1,0 +1,32 @@
+{
+  "name": "ttdl5",
+  "version": "1.1.0",
+  "description": "NineTwelve TTDL4 is a tool to download TikTok videos for free.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server-two.js",
+    "dev": "nodemon server-two.js",
+    "vercel-build": "echo done"
+  },
+  "keywords": [
+    "TikTok",
+    "Downloader",
+    "Scraper",
+    "NineTwelve"
+  ],
+  "author": "NineTwelve",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cheerio": "^1.1.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "fs-extra": "^11.3.2",
+    "multer": "^2.0.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "tailwindcss": "^4.1.17"
+  }
+}
