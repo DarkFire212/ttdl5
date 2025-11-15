@@ -21,17 +21,17 @@ Repo: **https://github.com/ShinWolf-Subject/ttdl5**
 
 ## 📁 Struktur Proyek
 ```
-ttdl5/
-├─ downloads/
-│   └─ (hasil download .mp4)
-├─ public/
-│   ├─ index.html
-│   └─ script.js
-├─ .gitignore
-├─ package.json
-├─ README.md
-├─ server-two.js
-└─ vercel.json
+ttdl5/               # Root
+├─ downloads/        # Untuk menyimpan dan download video
+│   └─ (Video)       # Hasil download/Download function
+├─ public/           # Folder interface
+│   ├─ index.html    # File fe utama
+│   └─ script.js     # Logika Front
+├─ .gitignore        # Ignored Sensitive Files/Folders
+├─ package.json      # Script & Dependencies
+├─ README.md         # README - Guide & Notes
+├─ server-two.js     # Server utama
+└─ vercel.json       # Wajib buat deploy ke Vercel
 ```
 
 ---
@@ -79,4 +79,4 @@ http://localhost:3000
 ## 📜 Lisensi
 MIT — bebas dipake, bebas dikembangin, yang penting **asikin aja 🗿**
 
-## Made by me aku my gua NineTwelve ☠️
+## Made by me im i'am ore boku watashi aku my gua NineTwelve ☠️
