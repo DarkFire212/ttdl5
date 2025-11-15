@@ -47,8 +47,13 @@ ttdl5/                # Root
 ## ▶️ Cara Menjalankan Lokal
 
 ```bash
+# Clone repositori-nya
 git clone https://github.com/ShinWolf-Subject/ttdl5.git
-cd ttdl5
+
+# Masuk ke folder proyek
+cd TTDL5
+
+# Install depedensi
 npm install
 
 # Production
